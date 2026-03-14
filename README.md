@@ -2,6 +2,10 @@
 
 **Green** Portfolio Tracker is a Flutter mobile app that helps users track their stock investments along with their environmental impact. The app shows portfolio value, CO₂ emissions, and ESG scores so users can understand how sustainable their investments are.
 
+## Demo Video
+
+https://github.com/user-attachments/assets/8ce8497e-94ac-42d3-a71f-3b5b1b9728dc
+
 ## Features
 
 * View total **portfolio value**
